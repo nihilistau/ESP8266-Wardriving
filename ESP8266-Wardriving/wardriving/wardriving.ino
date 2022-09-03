@@ -5,7 +5,7 @@
 #include <SD.h>
 #include <SoftwareSerial.h>
 #include <TinyGPS++.h>
-#include <Time.h>   
+#include <TimeLib.h>   
 
 #define UTC_offset -7  // PDT
 #define SD_CS      D8
